@@ -50,3 +50,5 @@ laurea (286)
     SELECT COUNT(*) AS `number_teacher_phone_null`
     FROM `teachers` 
     WHERE `phone` IS NULL;
+
+    
